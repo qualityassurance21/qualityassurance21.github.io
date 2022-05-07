@@ -1,0 +1,6 @@
+http://example.com/2022/05/07/hello-world/
+http://example.com/2022/05/07/hexo-hello-blog/
+http://example.com/
+http://example.com/tags/%E6%A0%87%E7%AD%BE%E5%90%8D/
+http://example.com/tags/%E9%9A%8F%E7%AC%94/
+http://example.com/categories/%E5%88%86%E7%B1%BB/
