@@ -1,5 +1,5 @@
 http://qualityassurance21.github.io/2022/05/08/test-new-article/
-http://qualityassurance21.github.io/2022/05/07/hello-world/
+http://qualityassurance21.github.io/2022/05/08/hello-world/
 http://qualityassurance21.github.io/2022/05/07/hexo-hello-blog/
 http://qualityassurance21.github.io/
 http://qualityassurance21.github.io/tags/%E6%A0%87%E7%AD%BE%E5%90%8D/
