@@ -3,11 +3,11 @@
   <title>软件质量保障</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://qualityassurance21.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-05-07T15:02:57.572Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://qualityassurance21.github.io/"/>
+  <updated>2022-05-08T02:44:59.638Z</updated>
+  <id>http://qualityassurance21.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test new article</title>
+    <link href="http://qualityassurance21.github.io/2022/05/08/test-new-article/"/>
+    <id>http://qualityassurance21.github.io/2022/05/08/test-new-article/</id>
+    <published>2022-05-08T02:44:56.000Z</published>
+    <updated>2022-05-08T02:44:59.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is a new tiiii</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;this is a new tiiii&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>hexo hello blog</title>
-    <link href="http://example.com/2022/05/07/hexo-hello-blog/"/>
-    <id>http://example.com/2022/05/07/hexo-hello-blog/</id>
+    <link href="http://qualityassurance21.github.io/2022/05/07/hexo-hello-blog/"/>
+    <id>http://qualityassurance21.github.io/2022/05/07/hexo-hello-blog/</id>
     <published>2022-05-07T09:52:37.000Z</published>
     <updated>2022-05-07T15:02:57.572Z</updated>
     
@@ -27,14 +48,14 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://qualityassurance21.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>文章名称</title>
-    <link href="http://example.com/2022/05/07/hello-world/"/>
-    <id>http://example.com/2022/05/07/hello-world/</id>
+    <link href="http://qualityassurance21.github.io/2022/05/07/hello-world/"/>
+    <id>http://qualityassurance21.github.io/2022/05/07/hello-world/</id>
     <published>2022-05-07T09:50:15.000Z</published>
     <updated>2022-05-07T15:03:59.834Z</updated>
     
@@ -48,10 +69,10 @@
     
     
     
-    <category term="分类" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB/"/>
+    <category term="分类" scheme="http://qualityassurance21.github.io/categories/%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="标签名" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE%E5%90%8D/"/>
+    <category term="标签名" scheme="http://qualityassurance21.github.io/tags/%E6%A0%87%E7%AD%BE%E5%90%8D/"/>
     
   </entry>
   

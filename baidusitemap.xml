@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/05/07/hello-world/</loc>
+    <loc>http://qualityassurance21.github.io/2022/05/08/test-new-article/</loc>
+    <lastmod>2022-05-08</lastmod>
+  </url>
+  <url>
+    <loc>http://qualityassurance21.github.io/2022/05/07/hello-world/</loc>
     <lastmod>2022-05-07</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/05/07/hexo-hello-blog/</loc>
+    <loc>http://qualityassurance21.github.io/2022/05/07/hexo-hello-blog/</loc>
     <lastmod>2022-05-07</lastmod>
   </url>
 </urlset> 
